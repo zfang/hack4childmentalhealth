@@ -8,3 +8,10 @@ dependencies:
   - websockets==4.0.1
   - pip
   - nb_conda
+  - pandas
+  - scikit-learn
+  - tqdm
+  - matplotlib
+  - seaborn
+  - pydub
+  - pyaudio
